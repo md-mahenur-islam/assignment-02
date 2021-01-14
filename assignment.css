@@ -11,11 +11,18 @@ body h1{
 }
 
 .navigation li a{
-    font-weight: 700;
     font-size:18px;
     text-decoration: none;
     color:rgb(43, 41, 41);
 }
+.navigation li a:hover{
+    background-color: rgb(114, 168, 13);
+    color:white;
+    font-weight:700;
+    border-radius:5px;
+    font-size:25px;
+}
+
 .buy-button{
     background-color: rgb(114, 168, 13);
     color:white;
@@ -23,7 +30,33 @@ body h1{
     border:0;
 }
 .buy-button:hover{
-    background-color:rgb(238, 163, 163);
+    background-color:rgb(114, 168, 13);
     font-size: 25px;
+    font-weight:700;
 }
-.my
+.img-1{
+    width:600px;
+    height:800px;
+}
+.img-1 img{
+    width:100%;
+}
+.jackets .card{
+    margin-right:50px;
+}
+.jackets .card img{
+    background-color: rgb(230, 219, 219);
+    border-radius: 10px;
+}
+.flex-item{
+    
+
+}
+.flex-item img{
+    width:100px;
+    height:100px;
+}
+.flex-item .details{
+    margin-left:20px;
+    text-transform: capitalize;
+}
