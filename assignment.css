@@ -1,0 +1,29 @@
+body h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size:50px;
+}
+.logo{
+    width:300px;
+
+}
+.navigation{
+    margin-left:600px;
+}
+
+.navigation li a{
+    font-weight: 700;
+    font-size:18px;
+    text-decoration: none;
+    color:rgb(43, 41, 41);
+}
+.buy-button{
+    background-color: rgb(114, 168, 13);
+    color:white;
+    font-weight:700px;
+    border:0;
+}
+.buy-button:hover{
+    background-color:rgb(238, 163, 163);
+    font-size: 25px;
+}
+.my
