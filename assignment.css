@@ -1,6 +1,10 @@
+body{
+    width:1220px;
+}
 body h1{
     font-family: 'Bebas Neue', cursive;
     font-size:50px;
+    
 }
 .top-design{
     background-color: rgb(236, 220, 220);
@@ -8,9 +12,6 @@ body h1{
 .logo{
     width:300px;
 
-}
-.navigation{
-    margin-left:600px;
 }
 
 .navigation li a{
@@ -78,3 +79,4 @@ body h1{
     font-size:20px;
     background-color: rgb(190, 227, 236);
 }
+
